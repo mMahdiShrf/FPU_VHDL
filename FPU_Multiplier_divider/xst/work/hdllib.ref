@@ -1,0 +1,16 @@
+EN sef NULL "D:/Education/Semester 7/ISE/FPU_md_v4/sef.vhd" sub00/vhpl00 1669656040
+AR main behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/main.vhd" sub00/vhpl15 1669656055
+EN exp_calc NULL "D:/Education/Semester 7/ISE/FPU_md_v4/exp_adder.vhd" sub00/vhpl04 1669656044
+EN normalizer NULL "D:/Education/Semester 7/ISE/FPU_md_v4/normalizer.vhd" sub00/vhpl08 1669656048
+AR round behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/round.vhd" sub00/vhpl11 1669656051
+AR sef behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/sef.vhd" sub00/vhpl01 1669656041
+EN sign NULL "D:/Education/Semester 7/ISE/FPU_md_v4/sign.vhd" sub00/vhpl12 1669656052
+EN main NULL "D:/Education/Semester 7/ISE/FPU_md_v4/main.vhd" sub00/vhpl14 1669656054
+AR sign behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/sign.vhd" sub00/vhpl13 1669656053
+AR normalizer behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/normalizer.vhd" sub00/vhpl09 1669656049
+EN round NULL "D:/Education/Semester 7/ISE/FPU_md_v4/round.vhd" sub00/vhpl10 1669656050
+EN chbf NULL "D:/Education/Semester 7/ISE/FPU_md_v4/chbf.vhd" sub00/vhpl02 1669656042
+AR exp_calc behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/exp_adder.vhd" sub00/vhpl05 1669656045
+AR chbf behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/chbf.vhd" sub00/vhpl03 1669656043
+EN multiplier_divider NULL "D:/Education/Semester 7/ISE/FPU_md_v4/multiplier.vhd" sub00/vhpl06 1669656046
+AR multiplier_divider behavioral "D:/Education/Semester 7/ISE/FPU_md_v4/multiplier.vhd" sub00/vhpl07 1669656047

@@ -1,0 +1,49 @@
+V3 31
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/chbf.vhd" 2022/11/28.11:27:53 P.20131013
+EN work/chbf 1669656042 FL "D:/Education/Semester 7/ISE/FPU_md_v4/chbf.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/chbf/Behavioral 1669656043 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/chbf.vhd" EN work/chbf 1669656042
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/exp_adder.vhd" 2022/11/28.15:57:29 P.20131013
+EN work/exp_calc 1669656044 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/exp_adder.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/exp_calc/Behavioral 1669656045 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/exp_adder.vhd" EN work/exp_calc 1669656044
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/main.vhd" 2022/11/28.20:46:05 P.20131013
+EN work/main 1669656054 FL "D:/Education/Semester 7/ISE/FPU_md_v4/main.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/main/Behavioral 1669656055 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/main.vhd" EN work/main 1669656054 \
+      CP sef CP chbf CP exp_calc CP multiplier_divider CP normalizer CP round CP sign
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/multiplier.vhd" 2022/11/28.20:50:33 P.20131013
+EN work/multiplier_divider 1669656046 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/multiplier.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/multiplier_divider/Behavioral 1669656047 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/multiplier.vhd" \
+      EN work/multiplier_divider 1669656046
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/normalizer.vhd" 2022/11/28.20:44:03 P.20131013
+EN work/normalizer 1669656048 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/normalizer.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/normalizer/Behavioral 1669656049 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/normalizer.vhd" \
+      EN work/normalizer 1669656048
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/round.vhd" 2022/11/28.20:49:31 P.20131013
+EN work/round 1669656050 FL "D:/Education/Semester 7/ISE/FPU_md_v4/round.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/round/Behavioral 1669656051 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/round.vhd" EN work/round 1669656050
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/sef.vhd" 2022/11/28.16:57:49 P.20131013
+EN work/sef 1669656040 FL "D:/Education/Semester 7/ISE/FPU_md_v4/sef.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/sef/Behavioral 1669656041 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/sef.vhd" EN work/sef 1669656040
+FL "D:/Education/Semester 7/ISE/FPU_md_v4/sign.vhd" 2022/11/28.16:00:48 P.20131013
+EN work/sign 1669656052 FL "D:/Education/Semester 7/ISE/FPU_md_v4/sign.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/sign/Behavioral 1669656053 \
+      FL "D:/Education/Semester 7/ISE/FPU_md_v4/sign.vhd" EN work/sign 1669656052

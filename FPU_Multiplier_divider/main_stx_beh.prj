@@ -1,0 +1,8 @@
+vhdl isim_temp "sign.vhd"
+vhdl isim_temp "sef.vhd"
+vhdl isim_temp "round.vhd"
+vhdl isim_temp "normalizer.vhd"
+vhdl isim_temp "multiplier.vhd"
+vhdl isim_temp "exp_adder.vhd"
+vhdl isim_temp "chbf.vhd"
+vhdl isim_temp "main.vhd"

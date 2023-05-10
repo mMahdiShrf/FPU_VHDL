@@ -1,0 +1,40 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main_tb_isim_beh.exe -prj D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main_tb_beh.prj work.main_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/sign.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/sef.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/round.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer2.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/multiplier.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/exp_adder.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/chbf.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main.vhd" into library work
+Parsing VHDL file "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_signed
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity sef [sef_default]
+Compiling architecture behavioral of entity chbf [chbf_default]
+Compiling architecture behavioral of entity exp_calc [exp_calc_default]
+Compiling architecture behavioral of entity multiplier_divider [multiplier_divider_default]
+Compiling architecture behavioral of entity normalizer2 [normalizer2_default]
+Compiling architecture behavioral of entity normalizer [normalizer_default]
+Compiling architecture behavioral of entity round [round_default]
+Compiling architecture behavioral of entity sign [sign_default]
+Compiling architecture behavioral of entity main [main_default]
+Compiling architecture behavior of entity main_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\main_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 25 VHDL Units
+Built simulation executable D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main_tb_isim_beh.exe
+Fuse Memory Usage: 38468 KB
+Fuse CPU Usage: 608 ms

@@ -1,0 +1,9 @@
+vhdtdtfi -prj FPU_md_v4 -o "D:/Education/Semester 7/ISE/FPU_md_v4/round.vhi" -module round -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work round.vhd 
+xst -intstyle ise -ifn "D:/Education/Semester 7/ISE/FPU_md_v4/round.xst" -ofn "D:/Education/Semester 7/ISE/FPU_md_v4/round.syr" 
+xst -intstyle ise -ifn "D:/Education/Semester 7/ISE/FPU_md_v4/round.xst" -ofn "D:/Education/Semester 7/ISE/FPU_md_v4/round.syr" 
+xst -intstyle ise -ifn "D:/Education/Semester 7/ISE/FPU_md_v4/round.xst" -ofn "D:/Education/Semester 7/ISE/FPU_md_v4/round.syr" 
+xst -intstyle ise -ifn "D:/Education/Semester 7/ISE/FPU_md_v4/round.xst" -ofn "D:/Education/Semester 7/ISE/FPU_md_v4/round.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx75-fgg484-3 "round.ngc" round.ngd  
+map -intstyle ise -p xc6slx75-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o round_map.ncd round.ngd round.pcf 
+par -w -intstyle ise -ol high -mt off round_map.ncd round.ncd round.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml round.twx round.ncd -o round.twr round.pcf 

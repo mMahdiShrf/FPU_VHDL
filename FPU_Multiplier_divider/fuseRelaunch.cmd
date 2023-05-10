@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main_tb_isim_beh.exe" -prj "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/main_tb_beh.prj" "work.main_tb" 

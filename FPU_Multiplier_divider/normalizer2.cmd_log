@@ -1,0 +1,3 @@
+vhdtdtfi -prj FPU_md_v4 -o "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer2.vhi" -module normalizer2 -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work normalizer2.vhd 
+xst -intstyle ise -ifn "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer2.xst" -ofn "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer2.syr" 
+xst -intstyle ise -ifn "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer2.xst" -ofn "D:/Education/Semester 7/ISE/extra precise/FPU_md_v4/normalizer2.syr" 
