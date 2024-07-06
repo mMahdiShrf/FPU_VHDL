@@ -23,10 +23,10 @@ FPUs are essential for many types of processors and significantly reduce the tim
 - ISE 14.7 to synthesize on FPGA
 
 ## Usage
-- Using FPGA as external FPU
+- Using FPGA as an external FPU
 
 ## VHDL Development
-- [Describe the structure of the VHDL code, key modules, and any specific coding standards or guidelines followed. Include information about the design approach and methodologies used.]
+First, I designed and implemented smaller modules and then used them to create the main module. The smaller modules were created according to the procedure that IEEE 754 suggests for arithmetic operations.
 
 ## Contact
 mahdi.sharif20001@gmail.com
